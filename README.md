@@ -2,4 +2,4 @@
 Recipes
 
 
-Languages: Italiano, Inglese
+Languages: Italian, English
